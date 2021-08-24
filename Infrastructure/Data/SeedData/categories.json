@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Name": "Vegetables",
+    "ImageUrl": "images/products/sb-ang2.png"
+  },
+  {
+    "Id": 2,
+    "Name": "Fruits",
+    "ImageUrl": "images/products/sb-ang2.png"
+  },
+  {
+    "Id": 3,
+    "Name": "Meat",
+    "ImageUrl": "images/products/sb-ang2.png"
+  },
+  {
+    "Id": 4,
+    "Name": "Fish",
+    "ImageUrl": "images/products/sb-ang2.png"
+  },
+  {
+    "Id": 5,
+    "Name": "Beverages",
+    "ImageUrl": "images/products/sb-ang2.png"
+  },
+  {
+    "Id": 6,
+    "Name": "Chilled",
+    "ImageUrl": "images/products/sb-ang2.png"
+  },
+  {
+    "Id": 7,
+    "Name": "Grocery",
+    "ImageUrl": "images/products/sb-ang2.png"
+  }
+]

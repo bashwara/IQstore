@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Generic"
+  },
+  {
+    "Id": 2,
+    "Name": "CIC"
+  },
+  {
+    "Id": 3,
+    "Name": "Highland"
+  },
+  {
+    "Id": 4,
+    "Name": "Elephant House"
+  },
+  {
+    "Id": 5,
+    "Name": "Krest"
+  },
+  {
+    "Id": 6,
+    "Name": "Maliban"
+  }
+]

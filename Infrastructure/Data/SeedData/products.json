@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "Carrot",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 200,
+    "ImageUrl": "images/products/sb-ang1.png",
+    "ProductCategoryId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Potatoes",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 150,
+    "ImageUrl": "images/products/sb-ang2.png",
+    "ProductCategoryId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Bananas",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180,
+    "ImageUrl": "images/products/sb-core1.png",
+    "ProductCategoryId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Papaya",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 300,
+    "ImageUrl": "images/products/sb-core2.png",
+    "ProductCategoryId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Chicken",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 250,
+    "ImageUrl": "images/products/sb-react1.png",
+    "ProductCategoryId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Beef",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 120,
+    "ImageUrl": "images/products/sb-ts1.png",
+    "ProductCategoryId": 3,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Tuna",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 10,
+    "ImageUrl": "images/products/hat-core1.png",
+    "ProductCategoryId": 4,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Prawns",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 8,
+    "ImageUrl": "images/products/hat-react1.png",
+    "ProductCategoryId": 4,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Fresh Milk",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 15,
+    "ImageUrl": "images/products/hat-react2.png",
+    "ProductCategoryId": 5,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Cream Soda",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 18,
+    "ImageUrl": "images/products/glove-code1.png",
+    "ProductCategoryId": 5,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Ice Cream",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 15,
+    "ImageUrl": "images/products/glove-code2.png",
+    "ProductCategoryId": 6,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Yoghurt",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 16,
+    "ImageUrl": "images/products/glove-react1.png",
+    "ProductCategoryId": 6,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Butter",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 14,
+    "ImageUrl": "images/products/glove-react2.png",
+    "ProductCategoryId": 6,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Sausages",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 250,
+    "ImageUrl": "images/products/boot-redis1.png",
+    "ProductCategoryId": 6,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Samba",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 189.99,
+    "ImageUrl": "images/products/boot-core2.png",
+    "ProductCategoryId": 7,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Sugar",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 199.99,
+    "ImageUrl": "images/products/boot-core1.png",
+    "ProductCategoryId": 7,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Dhal",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 150,
+    "ImageUrl": "images/products/boot-ang2.png",
+    "ProductCategoryId": 7,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Cream Cracker",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180,
+    "ImageUrl": "images/products/boot-ang1.png",
+    "ProductCategoryId": 7,
+    "ProductBrandId": 6
+  }
+]
